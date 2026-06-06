@@ -2,7 +2,7 @@
 
 > Aplicación de trivia en tiempo real construida con React 19 + Vite + TypeScript.
 
-🚀 **[Ver demo en vivo](https://trivia-react-tu-usuario.vercel.app)**
+🚀 **[Ver demo en vivo](https://eva03-dawe.vercel.app)**
 
 ---
 
